@@ -1,0 +1,7 @@
+
+        Movie: Cruella, Officers 1971</Movie>
+        Series: Young Sheldon,Criminal Minds, Topi
+        Food: any soup, buckwheat, chicken
+	Wether: summer
+	Сountries:Canada, Asian countries or Israel
+

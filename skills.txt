@@ -1,0 +1,5 @@
+1)Базовая теория тестирования
+2)SDLC, STLC
+3)HTTP, JSON, XML
+4)Postman, Charles и Fiddler
+and much more...
